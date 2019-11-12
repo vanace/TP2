@@ -45,6 +45,6 @@ menor =C[0]
 for elemento in range(len(C)):
     if C[elemento] < menor:
         menor = C[i]
-print(menor)
+print("El menor es:",menor)
 
 
